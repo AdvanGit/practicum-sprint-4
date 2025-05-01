@@ -1,0 +1,178 @@
+{
+  "main": {
+    "id": "3614788284609fb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "471c189875f84b6d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "66d875d14c0e1094",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Task1/Планирование - анализ, идентификация проблем и поиск решений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Планирование - анализ, идентификация проблем и поиск решений"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2178095c7cd835d5",
+    "type": "split",
+    "children": [
+      {
+        "id": "81805dd9abed185b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2071bc4448abbf79",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "01176a31f77613b2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a0b49f41efc41196",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a304387be08f5dec",
+    "type": "split",
+    "children": [
+      {
+        "id": "5cb349a7d5eed891",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bc7070432fc13076",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Task1/Планирование - анализ, идентификация проблем и поиск решений.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Планирование - анализ, идентификация проблем и поиск решений"
+            }
+          },
+          {
+            "id": "c77a5c9f3eebd479",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Task1/Планирование - анализ, идентификация проблем и поиск решений.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Планирование - анализ, идентификация проблем и поиск решений"
+            }
+          },
+          {
+            "id": "904ba12d540b4892",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "5ed23ca77213d0d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Task1/Планирование - анализ, идентификация проблем и поиск решений.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Планирование - анализ, идентификация проблем и поиск решений"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "66d875d14c0e1094",
+  "lastOpenFiles": [
+    "README.md",
+    "Untitled.canvas",
+    "2025-05-01.md",
+    "Task1/Планирование - анализ, идентификация проблем и поиск решений.md"
+  ]
+}
